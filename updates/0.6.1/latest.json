@@ -1,0 +1,10 @@
+{
+ "version": "0.6.1",
+ "notes": "First in-app update: LanLens now checks koohrang/lanlens-release for updates by itself. Same features as 0.6.0.",
+ "code": {
+  "url": "https://raw.githubusercontent.com/koohrang/lanlens-release/main/updates/0.6.1/lanlens-code-0.6.1.zip",
+  "sha256": "a47678cad9e30d7029d5f6224a047790aead5e935553f3979f58215731e683a8",
+  "min_shell": 1
+ },
+ "sig": "XnLmbHnUZFPcmCUgJJjfcjLDML6niMXPioMGJ0eZHL5kLonwatoJEaQi8UGkDrnGgLxQBzK3NJoB3qqILtthBQ=="
+}

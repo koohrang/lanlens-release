@@ -8,7 +8,8 @@ the app, with no download and no reinstall.
 
 ## How updates stay safe
 
-- Each release has two files: `latest.json` (what's new and where to get it) and
+- `latest.json` (at the top) says which version is current and where to get it.
+  Each version's files live in `updates/<version>/`, including
   `lanlens-code-<version>.zip` (the update itself).
 - Both are signed with the LanLens release key. LanLens refuses any update that
   isn't signed with that key, or whose files don't match their signed
