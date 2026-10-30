@@ -1,10 +1,10 @@
 {
- "version": "0.6.1",
- "notes": "First in-app update: LanLens now checks koohrang/lanlens-release for updates by itself. Same features as 0.6.0.",
+ "version": "0.7.0",
+ "notes": "New Insights screen (which app controls what, Matter/Thread readiness, weak connections, TV and console screen time, always-on energy), safety recall and end-of-support alerts, private Wi-Fi address tracking, warranty and receipts per device, arrival/departure automations, internet provider evidence report, new-router checklist, and a new hover card on the Home ring.",
  "code": {
-  "url": "https://raw.githubusercontent.com/koohrang/lanlens-release/main/updates/0.6.1/lanlens-code-0.6.1.zip",
-  "sha256": "a47678cad9e30d7029d5f6224a047790aead5e935553f3979f58215731e683a8",
+  "url": "https://raw.githubusercontent.com/koohrang/lanlens-release/main/updates/0.7.0/lanlens-code-0.7.0.zip",
+  "sha256": "c8eb8e12db667e69e3e66bff5810873dcf1bb7a79dd737a5d3fad8488490ae5d",
   "min_shell": 1
  },
- "sig": "XnLmbHnUZFPcmCUgJJjfcjLDML6niMXPioMGJ0eZHL5kLonwatoJEaQi8UGkDrnGgLxQBzK3NJoB3qqILtthBQ=="
+ "sig": "PaNytWCCdJPwtD5kRCyW7KduzyPxVc7Bk7w5jHf84vqUjvvJWJQE4miBU/Z4hnW4+0UnE+zDSmuYpsCpXB0XBw=="
 }
